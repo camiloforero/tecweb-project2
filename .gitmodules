@@ -1,0 +1,3 @@
+[submodule "tecweb-django_model_backend"]
+	path = tecweb-django_model_backend
+	url = git@github.com:camiloforero/tecweb-django_model_backend.git
